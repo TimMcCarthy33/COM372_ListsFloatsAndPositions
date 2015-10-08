@@ -1,0 +1,43 @@
+list1
+1. the bullet points turned to unfilled circles.
+2. moved the circles to the left.
+3. changed empty circles to a filled square.
+4. leaves the list with no bullet points.
+5. returned the full circle bullet points and put a red box around it.
+6. the items shifted left.
+7. returns the items to the original position.
+8. removes bullets and shifts everything to as far left as it can go.
+
+list.li
+1. provides a box around the lists that is black and dashed.
+2. the padding spaces the lists out, making it look like double spaced.
+3. the margins got smaller and the width of the dashed box shrunk.
+4. the lists were spaced out again, bullets were visible and each box was seperated more.
+5. makes the elements horizontal on one line.not bulleted.
+6. goes back to vertical, no bullets.
+7. went back to horizontal, spaced, all on one line, no bullets dashed box stayed the same.
+
+testdivposition
+1. this tells the browser to move the element relative to its existing position in the normal flow.
+2. this moved the entire red box to the right, making the left side of the box start at 100 on the ruler.
+3. moving it to the right makes the left part of the box exit the screen.
+4. by adding a top property to 100px this brings the box further down the page.
+5. by adding a left property o 200 px it centers the box a little more in the middle of the page.
+6. by removing the top and left propertys the container goes back to what we started with.
+7. by making the property absolute this does not change what the screen looks like but it is letting the broswer know about what is about to come.
+8. By adding a 0px to the top property, it moves the container to the top of the page overlapping the writting.
+9. by setting the right property to 0px, this moves the box to the lower right hand corner.
+10. brings the box a little more over.
+11. remove the top property.
+12.by making the bottom property 0px this brought the container back to the left and took it up the page a little bit.
+13. I changed the bottom border to 220px inorder to see the 13th step. It brought up the container on the page.
+
+Columns
+1. by setting both float properties right, the two columns shift to the right of the screen.
+2. by floating both left, they shift back over to the left.
+3. the red goes to the right of the screen and the maroon stays on the left of the page.
+4. testDiv1 is bigger then testdiv2 and test div 1 is on top of 2.
+5. I set the width to 400% and it was out of the page barely. 380% worked a lot better.
+6. If I change the length of the page, the boxes go out of screen and my screen said it had a problem configuring.
+7. When using different padding and margin settings there were some percents that fit and some had a hard time.
+8-11. when making these four steps we see a third column arrive and when we do what the directions say we see the columns shift in accordance to the directions. 
